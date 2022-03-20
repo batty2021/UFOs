@@ -18,10 +18,12 @@ Use JavaScipt,HTML, and CSS to create a custom webpage that showcases different 
 
 # Results
 - how someone might use the new webpage by using the search criteria?
-    - first i created a table to organize UFO data that is stored as a javaScript array, or a list, then the table would have the ability to filter data based on search criteria and would be created using javaScript as primary coding language. After i Created we could populate, and dynamically filter a table using JavaScript, CSS and HTML. Finaly ; we can use the created webpage through browser.here are some images to perform the search;
-
+    - first i created a table to organize UFO data that is stored in a javaScript array, or a list, then the table would have the ability to filter data based on search criteria and would be created using javaScript as primary coding language. After i Created we could populate, and dynamically filter a table using JavaScript, CSS and HTML. Also i customized my webpage using Bootstrap, and equip my table with several fully functional filters that will allow users to interact with our visualizations. Here are some images below to perform the search;
 
 ![UFO_Sightings](https://user-images.githubusercontent.com/77947860/159144805-acf650af-7459-4337-8a05-e572f41e5a25.png)
 ![filter_search2](https://user-images.githubusercontent.com/77947860/159144792-faa87bad-b8ca-42ac-94ae-09c2285f0c77.png)
 
+# Summary
+
+   Some drawback of using this webpage are client-side security, browser support and lack of debugging facility. I recommend further development to solve those problemes, it needs more modern core javascript and web API features.
 
